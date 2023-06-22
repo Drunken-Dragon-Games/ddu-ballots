@@ -28,3 +28,19 @@ Initially, players will be able to actively use up to 7 adventurers. In a future
 
 ## Passive Staking Earned DS
 
+You will earn DragonSilver to claim every 7 days depending on the rarity of your assets. Grandmaster Adventurers and Adventurers of Thiolden earn from 2 different attributes, which are summed for the total 7 days stake.
+
+### Pixel Tiles
+
+![image](https://github.com/Drunken-Dragon-Games/ddu-ballots/assets/592253/0cc19fe2-bd8e-485f-8042-03f91f90d332)
+
+### Grandmaster Adventurers
+
+![image](https://github.com/Drunken-Dragon-Games/ddu-ballots/assets/592253/887ad332-c430-4e65-89d0-f7f565221fc7)
+
+### Adventurers of Thiolden
+
+![image](https://github.com/Drunken-Dragon-Games/ddu-ballots/assets/592253/01a7d214-462e-4d73-8f09-58e3de8fd224)
+
+
+
